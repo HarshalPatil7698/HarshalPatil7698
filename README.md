@@ -1,7 +1,7 @@
 ### Hi there 👋
 **I am Harshal Patil**
 
->🌱 I’m Skilled in **Excel, SQL, Power BI, Python.**
+>🌱 Welcome to My GitHub Profile.
 
 >📫 How to reach out to me harshalp.pratap@gmail.com.
 
