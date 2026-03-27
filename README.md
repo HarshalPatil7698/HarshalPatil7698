@@ -1,39 +1,25 @@
-### Hi there 👋
-**I am Harshal Patil**
+# Hi, I'm Harshal Patil 👋
+### Data Analyst | Power BI Developer | Business Analyst
 
->🌱 Welcome to My GitHub Profile.
+Mechanical Engineer turned Data Professional with **3 years of experience** across **Telecom (Jio)** and **Insurance (Wipro Ltd)** domains. I specialize in transforming complex datasets into high-impact visual stories and automating manual reporting workflows.
 
->📫 How to reach out to me harshalp.pratap@gmail.com.
+- 🔭 **Currently:** Senior Executive at **Jio**, automating revenue reconciliation for millions of subscribers.
+- ### 🚀 Strategic Impact & Launch Excellence
+* **Jio-Gemini AI Integration:** Validated complex subscription logic for **50M+ potential users**, ensuring **zero-error billing** and 100% data sync from Day 1.
+* **JioHotstar & OTT Bundles:** Automated partner-data reconciliation, **reducing reporting latency by 85%** and safeguarding revenue integrity across Netflix & Amazon Prime offerings.
+* **Automation Leadership:** Successfully transitioned manual workflows into **Power BI dashboards**, saving the team **20+ hours of manual effort weekly**.
+- 🛠️ **Tech Stack:** Power BI (DAX/Power Query), Advanced SQL, Excel (VBA/Macros), and Python for EDA.
+- 📫 **Connect with me:** [https://www.linkedin.com/in/harshal-patil-a36181208/]
 
->⚡ Fun fact **A Mechanical Engineer turned in to IT Professional.**
+---
 
-Connect with me:
+### 🛠️ Technical Toolbox
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">](https://www.linkedin.com/in/https://www.linkedin.com/in/harshal-patil-a36181208)
-[<img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=instagram">](https://www.instagram.com/https://instagram.com/harshalpatil7698?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
-
-
-**Languages and Tools:**
-
-[![PowerBI](https://img.shields.io/badge/PowerBI-blue?logo=powerbi)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-blue?logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-blue?logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-blue?logo=selenium)](https://www.selenium.dev/)
-[![Postman](https://img.shields.io/badge/Postman-blue?logo=postman)](https://www.postman.com/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-blue?logo=eclipse-ide)](https://www.eclipse.org/ide/)
-[![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)](https://www.atlassian.com/software/jira)
-[![Visio](https://img.shields.io/badge/Microsoft_Visio-blue?logo=microsoft-visio)](https://products.office.com/en-us/visio)
-[![Axure RP](https://img.shields.io/badge/Axure_RP-blue?logo=axure)](https://www.axure.com/)
-[![Word](https://img.shields.io/badge/Word-blue?logo=microsoft-word)](https://www.microsoft.com/en-us/microsoft-365/word)
-[![PowerPoint](https://img.shields.io/badge/PowerPoint-blue?logo=microsoft-powerpoint)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
-
-
-
-
-
-
-
-
-
+#### **Project & Campaign Management**
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![FloworX](https://img.shields.io/badge/FloworX-Campaign_Testing-6014E7?style=for-the-badge&logo=target&logoColor=white)
 
